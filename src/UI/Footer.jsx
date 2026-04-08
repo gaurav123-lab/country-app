@@ -47,12 +47,12 @@ function Footer() {
                   </li>
 
                   <li>
-                    <NavLink to="" target="_blank">
+                    <NavLink to="https://in.linkedin.com/" target="_blank">
                       Social
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="" target="_blank">
+                    <NavLink to="https://github.com/gaurav123-lab/country-app/" target="_blank">
                       Source Code
                     </NavLink>
                   </li>
